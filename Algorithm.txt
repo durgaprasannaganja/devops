@@ -1,0 +1,16 @@
+Billing software :-
+step1- basic information
+-->Now we are thinking to create a billing slip from a shopping mall(ex:- DMart /Spencers /
+TATA -MART Etc...)
+step2 - functionlities of the program
+---> for developing this software we need some of the functionlities of the shopping mall
+i)customer name ii)items purchased iii)item values iv)total cost of the items with discount
+v)the bill shoud be generated along with time. vi)organisation name 
+step3 - implimentation
+-->try to implement the meathods realted to their functionlites 
+step4 - verification
+--> after completion of the implementation you should check with some test cases and run it
+step5 - run and fixing the errors
+--> after runing the software is ther any implementaiton is reqried then need to fix it
+step6 -finally realse it 
+-->all the above stpes are done properly ..now your software is ready to realse
